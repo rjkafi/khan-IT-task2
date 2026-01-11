@@ -94,7 +94,7 @@ The project is deployed as a **static site** (no build tools required).
 
 ## 🔗 Links
 
-- **Live Website:** [Add your Vercel live link here]
+- **Live Website:** [https://khan-it-task2.vercel.app/]
 - **GitHub Repository:** [https://github.com/rjkafi/khan-IT-task2]
 
 ---
